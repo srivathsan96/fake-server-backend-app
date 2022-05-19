@@ -1,0 +1,623 @@
+{
+    "components": [
+      {
+        "id": 1,
+        "category": "Beverages",
+        "brand": "Coca-Cola",
+        "productName": "CocoCola",
+        "packSize": "200ml",
+        "componentType": "Label Back",
+        "img": "coke",
+        "progressStatus": "In Progress",
+        "timeStatus": "Task due 37+ day(s) ago"
+      },
+      {
+        "id": 2,
+        "category": "Beverages",
+        "brand": "Coca-Cola",
+        "productName": "CocoCola",
+        "packSize": "600ml",
+        "componentType": "Label Back",
+        "img": "coke",
+        "progressStatus": "In Progress",
+        "timeStatus": "Task due 47+ day(s) ago"
+      },
+      {
+        "id": 3,
+        "category": "Beverages",
+        "brand": "Coca-Cola",
+        "productName": "CocoCola",
+        "packSize": "1 Ltr",
+        "componentType": "Label Back",
+        "img": "coke",
+        "progressStatus": "In Progress",
+        "timeStatus": "Task due 23+ day(s) ago"
+      },
+      {
+        "id": 4,
+        "category": "Beverages",
+        "brand": "Parle",
+        "productName": "Frooti",
+        "packSize": "200ml",
+        "componentType": "Label Back",
+        "img": "frooti",
+        "progressStatus": "In Progress",
+        "timeStatus": "Task due 6+ day(s) ago"
+      },
+      {
+        "id": 5,
+        "category": "Beverages",
+        "brand": "Parle",
+        "productName": "Frooti",
+        "packSize": "700ml",
+        "componentType": "Label Back",
+        "img": "frooti",
+        "progressStatus": "In Progress",
+        "timeStatus": "Task due 25+ day(s) ago"
+      },
+      {
+        "id": 6,
+        "category": "Beverages",
+        "brand": "Parle",
+        "productName": "Frooti",
+        "packSize": "2 Ltr",
+        "componentType": "Label Back",
+        "img": "frooti",
+        "progressStatus": "In Progress",
+        "timeStatus": "Task due 34+ day(s) ago"
+      },
+      {
+        "id": 7,
+        "category": "Sweets",
+        "brand": "B-Cake",
+        "productName": "Cake",
+        "packSize": "250 gm",
+        "componentType": "Label Back",
+        "img": "cake",
+        "progressStatus": "In Progress",
+        "timeStatus": "Task due 24+ day(s) ago"
+      },
+      {
+        "id": 8,
+        "category": "Sweets",
+        "brand": "B-Cake",
+        "productName": "Cake",
+        "packSize": "500 gm",
+        "componentType": "Label Back",
+        "img": "cake",
+        "progressStatus": "In Progress",
+        "timeStatus": "Task due 11+ day(s) ago"
+      },
+      {
+        "id": 9,
+        "category": "Sweets",
+        "brand": "B-Cake",
+        "productName": "Cake",
+        "packSize": "1 kg",
+        "componentType": "Label Back",
+        "img": "cake",
+        "progressStatus": "In Progress",
+        "timeStatus": "Task due 20+ day(s) ago"
+      },
+      {
+        "id": 10,
+        "category": "Snacks",
+        "brand": "Lays",
+        "productName": "Chips",
+        "packSize": "40g",
+        "componentType": "Label Back",
+        "img": "chips",
+        "progressStatus": "In Progress",
+        "timeStatus": "Task due 19+ day(s) ago"
+      },
+      {
+        "id": 11,
+        "category": "Snacks",
+        "brand": "Lays",
+        "productName": "Chips",
+        "packSize": "80g",
+        "componentType": "Label Back",
+        "img": "chips",
+        "progressStatus": "In Progress",
+        "timeStatus": "Task due 4+ day(s) ago"
+      },
+      {
+        "id": 12,
+        "category": "Snacks",
+        "brand": "Lays",
+        "productName": "Chips",
+        "packSize": "120g",
+        "componentType": "Label Back",
+        "img": "chips",
+        "progressStatus": "In Progress",
+        "timeStatus": "Task due 12+ day(s) ago"
+      },
+      {
+        "id": 13,
+        "category": "Sweets",
+        "brand": "Choco",
+        "productName": "Chocolate",
+        "packSize": "10g",
+        "componentType": "Label Front",
+        "img": "coke",
+        "progressStatus": "In Progress",
+        "timeStatus": "Task due 27+ day(s) ago"
+      },
+      {
+        "id": 14,
+        "category": "Sweets",
+        "brand": "Choco",
+        "productName": "Chocolate",
+        "packSize": "50g",
+        "componentType": "Label Front",
+        "img": "coke",
+        "progressStatus": "In Progress",
+        "timeStatus": "Task due 9+ day(s) ago"
+      },
+      {
+        "id": 15,
+        "category": "Sweets",
+        "brand": "Choco",
+        "productName": "Chocolate",
+        "packSize": "100g",
+        "componentType": "Label Back",
+        "img": "coke",
+        "progressStatus": "In Progress",
+        "timeStatus": "Task due 10+ day(s) ago"
+      },
+      {
+        "id": 16,
+        "category": "Sweets",
+        "brand": "Choco",
+        "productName": "Chocolate",
+        "packSize": "200gm",
+        "componentType": "Label Back",
+        "img": "coke",
+        "progressStatus": "In Progress",
+        "timeStatus": "Task due 17+ day(s) ago"
+      }
+    ],
+    "projects": [
+      {
+        "id": 1,
+        "category": "Dairy",
+        "packSize": "200gm",
+        "requestNumber": "81P-1A",
+        "initiatedBy": "Designer",
+        "initiatedDate": "31-Jul-2020",
+        "product": "Butter",
+        "componentType": "Front Label",
+        "img": "artwork",
+        "status": "Artwork Approved and Released"
+      },
+      {
+        "id": 2,
+        "category": "Dairy",
+        "packSize": "500ml",
+        "requestNumber": "81P-1B",
+        "initiatedBy": "Approver",
+        "initiatedDate": "24-Jul-2020",
+        "product": "Milk",
+        "componentType": "Back Label",
+        "img": "artwork",
+        "status": "Artwork Approved and Released"
+      },
+      {
+        "id": 3,
+        "category": "Snacks",
+        "packSize": "500gm",
+        "requestNumber": "81P-1C",
+        "initiatedBy": "Approver",
+        "initiatedDate": "23-Jul-2020",
+        "product": "Maggie",
+        "componentType": "Front Label",
+        "img": "artwork",
+        "status": "Artwork Approved and Released"
+      },
+      {
+        "id": 4,
+        "category": "Dairy",
+        "packSize": "200gm",
+        "requestNumber": "81P-1D",
+        "initiatedBy": "Designer",
+        "initiatedDate": "19-Jul-2020",
+        "product": "Butter",
+        "componentType": "Box",
+        "img": "artwork",
+        "status": "Artwork Approved and Released"
+      },
+      {
+        "id": 5,
+        "category": "Biscuits",
+        "requestNumber": "81P-1E",
+        "initiatedBy": "Approver",
+        "initiatedDate": "31-Jan-2020",
+        "product": "Cookie",
+        "componentType": "Back Label",
+        "img": "artwork",
+        "status": "Artwork Approved and Released",
+        "packSize": "500gm"
+      },
+      {
+        "id": 6,
+        "category": "Dairy",
+        "packSize": "500ml",
+        "requestNumber": "81P-1F",
+        "initiatedBy": "Designer",
+        "initiatedDate": "25-Jul-2020",
+        "product": "Milk",
+        "componentType": "Front Label",
+        "img": "artwork",
+        "status": "Artwork Approved and Released"
+      },
+      {
+        "id": 7,
+        "category": "Sauce",
+        "packSize": "1 Ltr",
+        "requestNumber": "81P-1G",
+        "initiatedBy": "Designer",
+        "initiatedDate": "21-Sept-2020",
+        "product": "Ketchup",
+        "componentType": "Front Label",
+        "img": "artwork",
+        "status": "Artwork Approved and Released"
+      },
+      {
+        "id": 8,
+        "category": "Biscuits",
+        "requestNumber": "81P-1H",
+        "initiatedBy": "Approver",
+        "initiatedDate": "22-Jul-2020",
+        "product": "Cookie",
+        "componentType": "Front Label",
+        "img": "artwork",
+        "status": "Artwork Approved and Released",
+        "packSize": "900g"
+      },
+      {
+        "id": 9,
+        "category": "Dairy",
+        "packSize": "500ml",
+        "requestNumber": "81P-1I",
+        "initiatedBy": "Designer",
+        "initiatedDate": "12-Jun-2020",
+        "product": "Milk",
+        "componentType": "Box Label",
+        "img": "artwork",
+        "status": "Artwork Approved and Released"
+      },
+      {
+        "id": 10,
+        "category": "Sauce",
+        "packSize": "1 Ltr",
+        "requestNumber": "81P-1J",
+        "initiatedBy": "Designer",
+        "initiatedDate": "30-Jul-2020",
+        "product": "Ketchup",
+        "componentType": "Front Label",
+        "img": "artwork",
+        "status": "Artwork Approved and Released"
+      },
+      {
+        "id": 11,
+        "category": "Biscuits",
+        "requestNumber": "81P-1K",
+        "initiatedBy": "Approver",
+        "initiatedDate": "21-Jul-2020",
+        "product": "Cookie",
+        "componentType": "Back Label",
+        "img": "artwork",
+        "status": "Artwork Approved and Released",
+        "packSize": "120g"
+      },
+      {
+        "id": 12,
+        "category": "Dairy",
+        "packSize": "500ml",
+        "requestNumber": "81P-1L",
+        "initiatedBy": "Designer",
+        "initiatedDate": "02-Aug-2020",
+        "product": "Milk",
+        "componentType": "Box",
+        "img": "artwork",
+        "status": "Artwork Approved and Released"
+      },
+      {
+        "id": 13,
+        "category": "Sauce",
+        "packSize": "1 Ltr",
+        "requestNumber": "81P-1M",
+        "initiatedBy": "Designer",
+        "initiatedDate": "20-Jul-2020",
+        "product": "Ketchup",
+        "componentType": "Front Label",
+        "img": "artwork",
+        "status": "Artwork Approved and Released"
+      },
+      {
+        "id": 14,
+        "category": "Biscuits",
+        "requestNumber": "81P-1N",
+        "initiatedBy": "Approver",
+        "initiatedDate": "13-Jul-2020",
+        "product": "Cookie",
+        "componentType": "Box",
+        "img": "artwork",
+        "status": "Artwork Approved and Released",
+        "packSize": "100g"
+      },
+      {
+        "id": 15,
+        "category": "Dairy",
+        "packSize": "500ml",
+        "requestNumber": "81P-1O",
+        "initiatedBy": "Designer",
+        "initiatedDate": "14-Jul-2020",
+        "product": "Milk",
+        "componentType": "Front Label",
+        "img": "artwork",
+        "status": "Artwork Approved and Released"
+      },
+      {
+        "id": 16,
+        "category": "Sauce",
+        "packSize": "1 Ltr",
+        "requestNumber": "81P-1P",
+        "initiatedBy": "Designer",
+        "initiatedDate": "16-Mar-2020",
+        "product": "Ketchup",
+        "componentType": "Box",
+        "img": "artwork",
+        "status": "Artwork Approved and Released"
+      },
+      {
+        "id": 17,
+        "category": "Dairy",
+        "packSize": "200gm",
+        "requestNumber": "81P-1Q",
+        "initiatedBy": "Approver",
+        "initiatedDate": "11-Jul-2020",
+        "product": "Butter",
+        "componentType": "Front Label",
+        "img": "artwork",
+        "status": "Artwork Approved and Released"
+      },
+      {
+        "id": 18,
+        "category": "Biscuits",
+        "requestNumber": "81P-1R",
+        "initiatedBy": "Designer",
+        "initiatedDate": "02-Feb-2020",
+        "product": "Cookie",
+        "componentType": "Back Label",
+        "img": "artwork",
+        "status": "Artwork Approved and Released",
+        "packSize": "100g"
+      },
+      {
+        "id": 19,
+        "category": "Dairy",
+        "packSize": "500ml",
+        "requestNumber": "81P-1S",
+        "initiatedBy": "Designer",
+        "initiatedDate": "06-Jul-2020",
+        "product": "Milk",
+        "componentType": "Front Label",
+        "img": "artwork",
+        "status": "Artwork Approved and Released"
+      },
+      {
+        "id": 20,
+        "category": "Dairy",
+        "packSize": "200gm",
+        "requestNumber": "81P-1T",
+        "initiatedBy": "Approver",
+        "initiatedDate": "17-Jul-2020",
+        "product": "Butter",
+        "componentType": "Front Label",
+        "img": "artwork",
+        "status": "Artwork Approved and Released"
+      },
+      {
+        "id": 21,
+        "category": "Biscuits",
+        "requestNumber": "81P-1U",
+        "initiatedBy": "Designer",
+        "initiatedDate": "15-Jan-2020",
+        "product": "Cookie",
+        "componentType": "Back Label",
+        "img": "artwork",
+        "status": "Artwork Approved and Released",
+        "packSize": "100g"
+      },
+      {
+        "id": 22,
+        "category": "Snacks",
+        "packSize": "500gm",
+        "requestNumber": "81P-1V",
+        "initiatedBy": "Designer",
+        "initiatedDate": "18-Jul-2020",
+        "product": "Maggie",
+        "componentType": "Front Label",
+        "img": "artwork",
+        "status": "Artwork Approved and Released"
+      },
+      {
+        "id": 23,
+        "category": "Dairy",
+        "packSize": "500ml",
+        "requestNumber": "81P-1W",
+        "initiatedBy": "Approver",
+        "initiatedDate": "28-Jul-2020",
+        "product": "Milk",
+        "componentType": "Back Label",
+        "img": "artwork",
+        "status": "Artwork Approved and Released"
+      },
+      {
+        "id": 24,
+        "category": "Dairy",
+        "packSize": "200gm",
+        "requestNumber": "81P-1X",
+        "initiatedBy": "Designer",
+        "initiatedDate": "16-Apr-2020",
+        "product": "Butter",
+        "componentType": "Back Label",
+        "img": "artwork",
+        "status": "Artwork Approved and Released"
+      },
+      {
+        "id": 25,
+        "category": "Biscuits",
+        "requestNumber": "81P-1Y",
+        "initiatedBy": "Approver",
+        "initiatedDate": "18-May-2020",
+        "product": "Cookie",
+        "componentType": "Front Label",
+        "img": "artwork",
+        "status": "Artwork Approved and Released",
+        "packSize": "200gm"
+      },
+      {
+        "id": 26,
+        "category": "Snacks",
+        "packSize": "500gm",
+        "requestNumber": "81P-1Z",
+        "initiatedBy": "Designer",
+        "initiatedDate": "09-Jun-2020",
+        "product": "Maggie",
+        "componentType": "Back Label",
+        "img": "artwork",
+        "status": "Artwork Approved and Released"
+      }
+    ],
+    "labels": [
+      {
+        "id": 1,
+        "label": "Front Label",
+        "version": "V1",
+        "requestNumber": "81P-1A"
+      },
+      {
+        "id": 2,
+        "label": "Box",
+        "version": "V1",
+        "requestNumber": "81P-1B"
+      },
+      {
+        "id": 3,
+        "label": "Back Label",
+        "version": "V1",
+        "requestNumber": "81P-1C"
+      },
+      {
+        "id": 4,
+        "label": "Front Label",
+        "version": "V1",
+        "requestNumber": "81P-1D"
+      },
+      {
+        "id": 5,
+        "label": "Back Label",
+        "version": "V1",
+        "requestNumber": "81P-1E"
+      },
+      {
+        "id": 6,
+        "label": "Box",
+        "version": "V1",
+        "requestNumber": "81P-1F"
+      },
+      {
+        "id": 7,
+        "label": "Back Label",
+        "version": "V1",
+        "requestNumber": "81P-1G"
+      },
+      {
+        "id": 8,
+        "label": "Box",
+        "version": "V1",
+        "requestNumber": "81P-1H"
+      },
+      {
+        "id": 9,
+        "label": "Back Label",
+        "version": "V1",
+        "requestNumber": "81P-1I"
+      },
+      {
+        "id": 10,
+        "label": "Front Label",
+        "version": "V1",
+        "requestNumber": "81P-1J"
+      },
+      {
+        "id": 11,
+        "label": "Box",
+        "version": "V1",
+        "requestNumber": "81P-1K"
+      },
+      {
+        "id": 12,
+        "label": "Back Label",
+        "version": "V1",
+        "requestNumber": "81P-1L"
+      },
+      {
+        "id": 13,
+        "label": "Front Label",
+        "version": "V1",
+        "requestNumber": "81P-1M"
+      },
+      {
+        "id": 14,
+        "label": "Back Label",
+        "version": "V1",
+        "requestNumber": "81P-1N"
+      },
+      {
+        "id": 15,
+        "label": "Box",
+        "version": "V1",
+        "requestNumber": "81P-1O"
+      },
+      {
+        "id": 16,
+        "label": "Back Label",
+        "version": "V1",
+        "requestNumber": "81P-1P"
+      },
+      {
+        "id": 17,
+        "label": "Front Label",
+        "version": "V1",
+        "requestNumber": "81P-1Q"
+      },
+      {
+        "id": 18,
+        "label": "Box",
+        "version": "V1",
+        "requestNumber": "81P-1R"
+      },
+      {
+        "id": 19,
+        "label": "Box",
+        "version": "V1",
+        "requestNumber": "81P-1S"
+      },
+      {
+        "id": 20,
+        "label": "Front Label",
+        "version": "V1",
+        "requestNumber": "81P-1T"
+      },
+      {
+        "id": 21,
+        "label": "Back Label",
+        "version": "V1",
+        "requestNumber": "81P-1U"
+      }
+    ]
+  }
+  
